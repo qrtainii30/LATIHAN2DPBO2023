@@ -12,4 +12,10 @@ pada kelas - kelas tersebut:<br>
 ## UML
 ![UML drawio](https://user-images.githubusercontent.com/119904110/221393491-00bedcef-3be9-4213-adb4-f28e36040295.png)
 ## Penjelasan
+Pada Diagram diatas, semua kelas memiliki relasi satu dengan satu lainnya dimana Mahasiswa memiliki parent SivitasAkademik dan SivitasAkademik memiliki parent Human maka dari itu kelas Mahasiswa bisa disebut sebagai cucu dari kelas Human. Dalam pemrograman ini, setiap kelas memiliki file yang berbeda.
 
+# Dokumentasi
+1. Disini, saya menggambarkan kelas-kelas tsb sebagai Data suatu kelompok yang bernama Kelompok Ceria dimana anggota-anggotanya sangat beragam. User ini sebagai ketua kelompok tsb yang mana beliau diminta untuk memasukan data data anggotanya.<br>
+![input](https://user-images.githubusercontent.com/119904110/221394068-a32691df-f3ac-4317-9fb4-8a8330702d1c.png)
+2. Setelah data berhasil dimasukkan, program akan mengeluarkan hasil data inputan tadi.<br>
+![output](https://user-images.githubusercontent.com/119904110/221394099-60fbf0f0-54d6-4c0c-bc00-ed88d983e08e.png)

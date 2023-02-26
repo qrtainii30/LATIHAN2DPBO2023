@@ -5,7 +5,7 @@ Saya Qurrotu Ainii NIM 2105885 mengerjakan soal Latihan 1 dalam mata kuliah Desa
 ## Soal
 Buatlah program berbasis OOP menggunakan bahasa pemrograman C++, Java,
 Python, dan PHP yang mengimplementasikan konsep Multi-level Inheritance
-pada kelas - kelas tersebut:
+pada kelas - kelas tersebut:<br>
 ● Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
 ● Human: NIK, nama, jenis_kelamin
 ● SivitasAkademik: asal_universitas, email_edu
